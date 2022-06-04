@@ -1,4 +1,5 @@
 # Raganork-multi-andi
+## என்னடா செவிடியா பய்யே எண்ணுடி Github le வேல! கெளம்பி போடே லூசு கூதி 
 ## Fek Deploy Endi [ivade kuthu](https://heroku.com/deploy?template=https://github.com/decode-stack/test)
 ## Multi device whatsapp bot created with [@souravendi](https://github.com/adiwajshing/Baileys)
 ## Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)
