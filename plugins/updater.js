@@ -61,7 +61,7 @@ Module({pattern: 'update start$', fromMe: true,dontAddCommandList: true, desc: "
             await git.push('heroku', 'main');
 
             await message.client.sendMessage(message.jid, { text:"_Successfully updated_"})
-           await message.client.sendMessage(message.jid, { text:"_Restarting_"})
+           await message.client.sendMessage(message.jid, { text:"_Restartings_"})
             
         
     }
